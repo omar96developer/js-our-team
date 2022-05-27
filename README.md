@@ -3,7 +3,7 @@
 Hello everybody!  
 
 
-In this project i created my first script for manipulating the DOM at the mouse click, to add a new member of the team, using JavaScript.
+In this project i created my first script for manipulating the DOM at the mouse click, to add a new member in the team, using JavaScript.
   
 
 
